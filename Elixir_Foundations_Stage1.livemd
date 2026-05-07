@@ -8,7 +8,7 @@ In Elixir, the `=` operator is not for assignment; it is a **match operator**. I
 
 ```elixir
 # 1. Successful match
-{status, user} = {:ok, "Edgar"}
+{status, user} = {:ok, "Wil"}
 IO.puts("Welcome, #{user}!")
 
 # 2. Matching with lists
