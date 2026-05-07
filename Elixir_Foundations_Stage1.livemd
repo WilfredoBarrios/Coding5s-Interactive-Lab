@@ -15,9 +15,9 @@ IO.puts("Welcome, #{user}!")
 [head | tail] = [1, 2, 3, 4]
 IO.inspect(head, label: "Head of the list")
 IO.inspect(tail, label: "Remaining tail")
- ```
+```
 
- ---
+---
 ### 🛡️ Explanation Gate
 Analyze the following code: `[x, y] = [10, 20, 30]`
 
