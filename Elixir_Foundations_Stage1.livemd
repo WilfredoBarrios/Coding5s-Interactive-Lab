@@ -1,0 +1,17 @@
+# 🟢 Coding5s Lab: Elixir Foundations (Stage 1)
+
+## 🧬 Stage 1: Learn
+This interactive lab focuses on the **Stage 1** of the Coding5s methodology. Our goal is to build your engineering intuition by exploring foundational concepts with AI-assisted context.
+
+### 🧩 Topic: Pattern Matching & The Match Operator
+In Elixir, the `=` operator is not for assignment; it is a **match operator**. It's like a scale: it tries to make the left side equal to the right side.
+
+```elixir
+# 1. Successful match
+{status, user} = {:ok, "Edgar"}
+IO.puts("Welcome, #{user}!")
+
+# 2. Matching with lists
+[head | tail] = [1, 2, 3, 4]
+IO.inspect(head, label: "Head of the list")
+IO.inspect(tail, label: "Remaining tail")
