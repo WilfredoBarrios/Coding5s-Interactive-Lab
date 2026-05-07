@@ -32,10 +32,6 @@ The best way to experience Coding5s is through **Livebook**.
 Explore Pattern Matching and the Match Operator using our AI-assisted Stage 1.
 [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https%3A%2F%2Fgithub.com%2FWilfredoBarrios%2FCoding5s-Interactive-Lab%2Fblob%2Fmain%2FElixir_Foundations_Stage1.livemd)
 
-### 🐍 Python Automation (Stage 1)
-Master List Comprehensions and data processing with the Coding5s methodology.
-[![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https%3A%2F%2Fgithub.com%2FWilfredoBarrios%2FCoding5s-Interactive-Lab%2Fblob%2Fmain%2FPython_Automation_Stage1.livemd)
-
 ---
 
 ### 🏛️ Architecture & Mentors
