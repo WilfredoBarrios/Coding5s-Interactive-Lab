@@ -15,3 +15,12 @@ IO.puts("Welcome, #{user}!")
 [head | tail] = [1, 2, 3, 4]
 IO.inspect(head, label: "Head of the list")
 IO.inspect(tail, label: "Remaining tail")
+18  ```
+19
+20  ---
+21  ### 🛡️ Explanation Gate
+22  Analyze the following code: `[x, y] = [10, 20, 30]`
+23
+24  **Intuition Question:** Why will this match fail? Is it because of the values or the structure?
+25  ---
+26  ⚡ *Coding5s System — Building Engineering Intuition*
