@@ -33,10 +33,11 @@ Haz clic en el botón **Run in Livebook** para abrir el laboratorio interactivo 
 ### 🟢 01 - Beginner Foundations
 | # | Topic | Interactive Lab |
 | :--- | :--- | :--- |
-| 01 | Introduction to Mix & Modules | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Interactive-Lab/blob/main/beginner/topic_1_introduction_to_mix_module_encapsulation_mix_new_defmodule_def.livemd) |
-| 02 | Primitive Data Types | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Interactive-Lab/blob/main/beginner/topic_2_primitive_data_types_integers_floats_atoms_booleans.livemd) |
-| 06 | Encapsulated Type Conversion | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Interactive-Lab/blob/main/beginner/project_6_encapsulated_type_conversion_greeting_module.livemd) |
-| 11 | Guard Clauses (when) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Interactive-Lab/blob/main/beginner/topic_11_guard_clauses_in_function_signatures_when.livemd) |
+| 01 | Introduction to Mix & Modules | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Interactive-Lab/blob/main/01-beginner/topic_1_introduction_to_mix_module_encapsulation_mix_new_defmodule_def.livemd) |
+| 02 | Primitive Data Types | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Interactive-Lab/blob/main/01-beginner/topic_2_primitive_data_types_integers_floats_atoms_booleans.livemd) |
+| 03 | Basic Arithmetic Operators | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Interactive-Lab/blob/main/01-beginner/topic_3_basic_arithmetic_operators_sum_sub_mul_div.livemd) |
+| 04 | String Manipulation | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Interactive-Lab/blob/main/01-beginner/topic_4_string_manipulation_concatenation_interpolation.livemd) |
+| 05 | Lists and Tuples | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Interactive-Lab/blob/main/01-beginner/topic_5_lists_and_tuples_hd_tl_elem.livemd) |
 
 ### 🟡 02 - Intermediate Logic
 | # | Topic | Interactive Lab |
