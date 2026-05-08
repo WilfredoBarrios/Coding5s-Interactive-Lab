@@ -26,15 +26,31 @@ The best way to experience Coding5s is through **Livebook**.
 
 ---
 
-## 🚀 Featured Labs
+## 🚀 Interactive Curriculum (Stage 1)
 
-### 🟢 Elixir Foundations (Stage 1)
-Explore Pattern Matching and the Match Operator using our AI-assisted Stage 1.
-[![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https%3A%2F%2Fgithub.com%2FWilfredoBarrios%2FCoding5s-Interactive-Lab%2Fblob%2Fmain%2FElixir_Foundations_Stage1.livemd)
+Haz clic en el botón **Run in Livebook** para abrir el laboratorio interactivo directamente en tu entorno.
+
+### 🟢 01 - Beginner Foundations
+| # | Topic | Interactive Lab |
+| :--- | :--- | :--- |
+| 01 | Introduction to Mix & Modules | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Interactive-Lab/blob/main/beginner/topic_1_introduction_to_mix_module_encapsulation_mix_new_defmodule_def.livemd) |
+| 02 | Primitive Data Types | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Interactive-Lab/blob/main/beginner/topic_2_primitive_data_types_integers_floats_atoms_booleans.livemd) |
+| 06 | Encapsulated Type Conversion | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Interactive-Lab/blob/main/beginner/project_6_encapsulated_type_conversion_greeting_module.livemd) |
+| 11 | Guard Clauses (when) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Interactive-Lab/blob/main/beginner/topic_11_guard_clauses_in_function_signatures_when.livemd) |
+
+### 🟡 02 - Intermediate Logic
+| # | Topic | Interactive Lab |
+| :--- | :--- | :--- |
+| 21 | Map Updating & Deep Manipulation | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Interactive-Lab/blob/main/intermediate/topic_21_map_updating_deep_manipulation_map_put_update_in_put_in.livemd) |
+
+### 🔴 03 - Advanced Systems
+| # | Topic | Interactive Lab |
+| :--- | :--- | :--- |
+| 49 | Metaprogramming Fundamentals | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Interactive-Lab/blob/main/advanced/topic_49_metaprogramming_fundamentals_the_ast_quote_unquote.livemd) |
 
 ---
 
 ### 🏛️ Architecture & Mentors
-Each lab includes an **Explanation Gate** where our AI Mentors (like the *Staff Engineer Auditor*) validate your logic before you move to the next stage.
+Cada laboratorio incluye un **Explanation Gate** donde nuestros Mentores de IA (como el *Staff Engineer Auditor*) validan tu lógica antes de avanzar a la siguiente etapa.
 
 [Coding5s.com](https://coding5s.com) | [Udemy](https://www.udemy.com/user/wilbarrios/)
