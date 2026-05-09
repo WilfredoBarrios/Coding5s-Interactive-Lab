@@ -11,7 +11,7 @@ Select a version to explore the interactive curriculum and the **Socratic Mentor
 | Language | Status | Link to Curriculum |
 | :--- | :--- | :--- |
 | 🇺🇸 **English** | 🟢 Active | [Explore English Lab](./en/README.md) |
-| 🇪🇸 **Español** | 🟢 Active | [Explorar Lab en Español](./es/README.md) |
+| 🇪🇸 **Español** | 🟢 Active | [Explorar Lab en Español](https://github.com/WilfredoBarrios/Coding5s-Interactive-Lab/tree/main/sp) |
 | 🇧🇷 **Português** | 🟢 Active | [Explorar Lab em Português](./pt/README.md) |
 | 🇻🇳 **Tiếng Việt** | 🟢 Active | [Xem Lab tiếng Việt](./vi/README.md) |
 | 🇹🇷 **Türkçe** | 🟢 Active | [Türkçe Lab'ı Görüntüle](./tr/README.md) |
