@@ -118,7 +118,7 @@ Each lab includes an **Explanation Gate** where our AI Mentors (like the *Staff 
 
 ## 🔗 Useful Links
 
-[Coding5s.com](https://coding5s.com) | [Udemy (Coding5s Premium)](https://www.udemy.com/user/wilbarrios/) | [GitHub](https://github.com/WilfredoBarrios) | [LinkedIn](https://linkedin.com/in/wilfredobarrios)
+[Coding5s.com](https://coding5s.com) | [Udemy (Coding5s Premium)](https://www.udemy.com/user/wilbarrios/) | [GitHub](https://github.com/WilfredoBarrios) |
 
 ---
 
