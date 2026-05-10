@@ -1,139 +1,138 @@
-# 🧪 Elixir Interactive Lab — Español 🇪🇸
+# 🧪 Elixir Interactive Lab — Bahasa Indonesia 🇮🇩
 
 [![Livebook](https://img.shields.io/badge/Livebook-FF6B6B?logo=livebook&logoColor=white)](https://livebook.dev)
 [![Elixir](https://img.shields.io/badge/Elixir-4B275F?logo=elixir&logoColor=white)](https://elixir-lang.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-> **Aprende Elixir escribiendo código, no solo leyéndolo.**  
-> Esta es la versión en español del currículo interactivo de **Coding5s**, diseñado para llevarte desde los fundamentos hasta la maestría técnica utilizando Livebook.
+> **Pelajari Elixir dengan menulis kode, bukan hanya membacanya.** > Ini adalah kurikulum interaktif **Coding5s** versi Bahasa Indonesia, yang dirancang untuk membawa Anda dari dasar hingga penguasaan teknis menggunakan Livebook.
 
 ---
 
-## 🚀 ¿Cómo empezar?
+## 🚀 Bagaimana cara memulainya?
 
-Para experimentar este laboratorio de forma interactiva, necesitas tener **Livebook** instalado en tu computadora.
+Untuk mencoba laboratorium ini secara interaktif, Anda perlu menginstal **Livebook** di komputer Anda.
 
-1. **Instala Livebook:** Descárgalo en [livebook.dev](https://livebook.dev).
-2. **Abre un Laboratorio:** Puedes navegar por las carpetas de abajo y hacer clic en el botón **"Run in Livebook"** dentro de cada archivo, o importar la URL directamente en tu sesión de Livebook.
+1. **Instal Livebook:** Unduh di [livebook.dev](https://livebook.dev).
+2. **Buka Laboratorium:** Anda dapat menelusuri folder di bawah ini dan klik tombol **"Run in Livebook"** di dalam setiap file, atau impor URL secara langsung ke sesi Livebook Anda.
 
 ---
 
-## 📚 Metodología Coding5s (5 Stages)
+## 📚 Metodologi Coding5s (5 Tahap)
 
-Nuestro enfoque se basa en la **Fricción Cognitiva Controlada**. Cada laboratorio te guiará a través de:
+Pendekatan kami didasarkan pada **Gesekan Kognitif Terkendali (Controlled Cognitive Friction)**. Setiap lab akan memandu Anda melalui:
 
-| Stage | Nombre | Objetivo |
+| Tahap | Nama | Tujuan |
 |-------|--------|----------|
-| **1** | Practice | Escribir código desde cero |
-| **2** | Debug | Encontrar errores lógicos intencionales |
-| **3** | Complete | Llenar vacíos arquitectónicos |
-| **4** | Refactor | Optimizar el código existente |
-| **5** | Extend | Añadir nuevas funcionalidades |
+| **1** | Practice | Menulis kode dari nol |
+| **2** | Debug | Menemukan kesalahan logika yang disengaja |
+| **3** | Complete | Mengisi celah arsitektur |
+| **4** | Refactor | Mengoptimalkan kode yang ada |
+| **5** | Extend | Menambahkan fungsionalitas baru |
 
-**Este repositorio contiene la Stage 1 (gratuita).** Las Stages 2-5 están disponibles en la versión premium.
-
----
-
-## 🧠 El Mentor Socrático (IA)
-
-Dentro de cada archivo encontrarás un **Prompt de Mentor**. No es un chatbot común; es un simulador de mentor de élite que:
-
-- **No te dará la respuesta directamente** (al principio)
-- Te hará preguntas para que tú mismo descubras el error
-- Utiliza analogías del mundo real para explicar conceptos de la BEAM
-- Te ayuda a eliminar el "Vibe Coding" y construir verdadera intuición de ingeniería
-- Hazle preguntas y te dará dará respuestas nivel senior.
+**Repositori ini berisi Tahap 1 (Gratis).** Tahap 2-5 tersedia dalam versi premium.
 
 ---
 
-## 🛠️ Currículo Interactivo — Stage 1: Practice Lab
+## 🧠 Mentor Sokratik (AI)
 
-Haz clic en el botón **Run in Livebook** para abrir cada laboratorio interactivo directamente en tu entorno.
+Di dalam setiap file, Anda akan menemukan **Mentor Prompt**. Ini bukan chatbot biasa; ini adalah simulator mentor elit yang:
+
+- **Tidak akan memberi Anda jawaban secara langsung** (pada awalnya)
+- Akan memberi Anda pertanyaan agar Anda menemukan sendiri kesalahannya
+- Menggunakan analogi dunia nyata untuk menjelaskan konsep BEAM
+- Membantu Anda menghilangkan "Vibe Coding" dan membangun intuisi rekayasa (engineering) yang nyata
+- Ajukan pertanyaan padanya, dan dia akan memberi Anda jawaban tingkat Senior.
+
+---
+
+## 🛠️ Kurikulum Interaktif — Tahap 1: Practice Lab
+
+Klik tombol **Run in Livebook** untuk membuka setiap laboratorium interaktif langsung di lingkungan Anda.
 
 | # |  Level |  Type |Topic Name | Interactive Lab |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | 🟢Beginner | Topic | Introducción a Mix y Encapsulación de Módulos (mix new, defmodule, def) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/es/beginner/1_topic_introducci_n_a_mix_y_encapsulaci_n_de_m_dulos_mix_new_defmodule_def.livemd) |
-| 2 | 🟢Beginner | Topic | Tipos de Datos Primitivos (Integers, Floats, Atoms, Booleans) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/es/beginner/2_topic_tipos_de_datos_primitivos_integers_floats_atoms_booleans.livemd) |
-| 3 | 🟢Beginner | Topic | Operaciones con Strings e Interpolación (<>, #{}) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/es/beginner/3_topic_operaciones_con_strings_e_interpolaci_n.livemd) |
-| 4 | 🟢Beginner | Topic | Estructuras de Tuples y Destructuring básico ({}) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/es/beginner/4_topic_estructuras_de_tuples_y_destructuring_b_sico.livemd) |
-| 5 | 🟢Beginner | Topic | Fundamentos de Lists (Operador Cons [hlt], ++, --) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/es/beginner/5_topic_fundamentos_de_lists_operador_cons_h_t.livemd) |
-| 6 | 🟢Beginner | PROJECT | Conversión de Tipos Encapsulados y Módulo de Saludo | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/es/beginner/6_project_conversi_n_de_tipos_encapsulados_y_m_dulo_de_saludo.livemd) |
-| 7 | 🟢Beginner | Topic | Fundamentos de Pattern Matching (Operador de coincidencia =, operador pin ^) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/es/beginner/7_topic_fundamentos_de_pattern_matching_operador_de_coincidencia_operador_pin.livemd) |
-| 8 | 🟢Beginner | Topic | Keyword Lists y Argumentos por Defecto | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/es/beginner/8_topic_keyword_lists_y_argumentos_por_defecto.livemd) |
-| 9 | 🟢Beginner | Topic | Fundamentos de Maps y Acceso (%{...}, map.key, map[:key]) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/es/beginner/9_topic_fundamentos_de_maps_y_acceso_map_key_map_key.livemd) |
-| 10 | 🟢Beginner | Topic | Funciones de Múltiples Cláusulas (Multi-Clause) mediante Pattern Matching | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/es/beginner/10_topic_funciones_de_m_ltiples_cl_usulas_multi_clause_mediante_pattern_matching.livemd) |
-| 11 | 🟢Beginner | Topic | Guard Clauses en Firmas de Función (when) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/es/beginner/11_topic_guard_clauses_en_firmas_de_funci_n_when.livemd) |
-| 12 | 🟢Beginner | Topic | Documentación de Módulos (@moduledoc, @doc) y Mejores Prácticas | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/es/beginner/12_topic_documentaci_n_de_m_dulos_moduledoc_doc_y_mejores_pr_cticas.livemd) |
-| 13 | 🟢Beginner | PROJECT | Extractor de Perfil de Usuario vía Multi-Clause Pattern Matching | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/es/beginner/13_project_extractor_de_perfil_de_usuario_v_a_multi_clause_pattern_matching.livemd) |
-| 14 | 🟡Intermediate | Topic | Ecosistema Mix: Dependencias Externas (Hex) y Formateo de Código (mix format) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/es/intermediate/14_topic_ecosistema_mix_dependencias_externas_hex_y_formateo_de_c_digo_mix_format.livemd) |
-| 15 | 🟡Intermediate | Topic | Composición Funcional y el Pipe Operator (` | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/es/intermediate/15_topic_composici_n_funcional_y_el_pipe_operator.livemd) |
-| 16 | 🟡Intermediate | Topic | Control de Flujo: Sentencias case y Errores de Coincidencia (Match Errors) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/es/intermediate/16_topic_control_de_flujo_sentencias_case_y_errores_de_coincidencia_match_errors.livemd) |
-| 17 | 🟡Intermediate | Topic | Control de Flujo: Sentencias cond y Truthiness | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/es/intermediate/17_topic_control_de_flujo_sentencias_cond_y_truthiness.livemd) |
-| 18 | 🟡Intermediate | Topic | Module Attributes como Constantes (@) y Definición de Structs (defstruct) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/es/intermediate/18_topic_module_attributes_como_constantes_y_definici_n_de_structs_defstruct.livemd) |
-| 19 | 🟡Intermediate | Topic | Trabajando con Structs (Creación, Actualización y Strict Matching) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/es/intermediate/19_topic_trabajando_con_structs_creaci_n_actualizaci_n_y_strict_matching.livemd) |
-| 20 | 🟡Intermediate | PROJECT | Pipeline de Transformación de Inventario Basado en Structs | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/es/intermediate/20_project_pipeline_de_transformaci_n_de_inventario_basado_en_structs.livemd) |
-| 21 | 🟡Intermediate | Topic | Actualización de Maps y Manipulación Profunda (Map.put, update_in, put_in) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/es/intermediate/21_topic_actualizaci_n_de_maps_y_manipulaci_n_profunda_map_put_update_in_put_in.livemd) |
-| 22 | 🟡Intermediate | Topic | Módulos de Tiempo y Fecha (Date, Time, DateTime, NaiveDateTime) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/es/intermediate/22_topic_m_dulos_de_tiempo_y_fecha_date_time_datetime_naivedatetime.livemd) |
-| 23 | 🟡Intermediate | Topic | Fundamentos de Recursión: Casos Base y Pasos Recursivos | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/es/intermediate/23_topic_fundamentos_de_recursi_n_casos_base_y_pasos_recursivos.livemd) |
-| 24 | 🟡Intermediate | Topic | Tail Call Optimization (TCO) y Acumuladores | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/es/intermediate/24_topic_tail_call_optimization_tco_y_acumuladores.livemd) |
-| 25 | 🟡Intermediate | Topic | Sigils (~s, ~w, ~r) y Expresiones Regulares (Módulo Regex) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/es/intermediate/25_topic_sigils_s_w_r_y_expresiones_regulares_m_dulo_regex.livemd) |
-| 26 | 🟡Intermediate | PROJECT | Pipeline de Parser de Datos Complejos Recursivo | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/es/intermediate/26_project_pipeline_de_parser_de_datos_complejos_recursivo.livemd) |
-| 27 | 🟡Intermediate | Topic | El Módulo Enum: Transformaciones Core (map, filter, reduce) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/es/intermediate/27_topic_el_m_dulo_enum_transformaciones_core_map_filter_reduce.livemd) |
-| 28 | 🟡Intermediate | Topic | El Módulo Enum: Agregaciones y Búsqueda (find, group_by, all?) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/es/intermediate/28_topic_el_m_dulo_enum_agregaciones_y_b_squeda_find_group_by_all.livemd) |
-| 29 | 🔴Advanced | Topic | El Módulo Stream: Evaluación Lazy vs Eager | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/es/advanced/29_topic_el_m_dulo_stream_evaluaci_n_lazy_vs_eager.livemd) |
-| 30 | 🔴Advanced | Topic | Comprehensions (for, generadores, filtros, into) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/es/advanced/30_topic_comprehensions_for_generadores_filtros_into.livemd) |
-| 31 | 🔴Advanced | Topic | Patrones de Manejo de Errores: Result Tuples ({:ok, val}, {:error, reason}) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/es/advanced/31_topic_patrones_de_manejo_de_errores_result_tuples_ok_val_error_reason.livemd) |
-| 32 | 🔴Advanced | Topic | La Forma Especial with (Encadenamiento de Result Tuples) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/es/advanced/32_topic_la_forma_especial_with_encadenamiento_de_result_tuples.livemd) |
-| 33 | 🔴Advanced | PROJECT | Stream y Filtrado de Procesamiento de Datos Lazy a Gran Escala | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/es/advanced/33_project_stream_y_filtrado_de_procesamiento_de_datos_lazy_a_gran_escala.livemd) |
-| 34 | 🔴Advanced | Topic | Contexto de Directivas de Módulo (alias, require, import, use) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/es/advanced/34_topic_contexto_de_directivas_de_m_dulo_alias_require_import_use.livemd) |
-| 35 | 🔴Advanced | Topic | Binary Pattern Matching y Manipulación de Bitstrings (<< >>) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/es/advanced/35_topic_binary_pattern_matching_y_manipulaci_n_de_bitstrings.livemd) |
-| 36 | 🔴Advanced | Topic | Operaciones del Sistema de Archivos (File.read, File.stream!, Path) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/es/advanced/36_topic_operaciones_del_sistema_de_archivos_file_read_file_stream_path.livemd) |
-| 37 | 🔴Advanced | PROJECT | Procesador de Archivos Binarios Encapsulado y Extractor de Metadatos | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/es/advanced/37_project_procesador_de_archivos_binarios_encapsulado_y_extractor_de_metadatos.livemd) |
-| 38 | 🔴Advanced | Topic | Fundamentos de ExUnit (use ExUnit.Case, test, assert, refute) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/es/advanced/38_topic_fundamentos_de_exunit_use_exunit_case_test_assert_refute.livemd) |
-| 39 | 🔴Advanced | Topic | Gestión de Estado en Pruebas de ExUnit (setup, setup_all, contextos) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/es/advanced/39_topic_gesti_n_de_estado_en_pruebas_de_exunit_setup_setup_all_contextos.livemd) |
-| 40 | 🔴Advanced | Topic | ExUnit Doctests (Ejecución de ejemplos de @doc como pruebas) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/es/advanced/40_topic_exunit_doctests_ejecuci_n_de_ejemplos_de_doc_como_pruebas.livemd) |
-| 41 | 🔴Advanced | Topic | Behaviours (Definición de Interfaces Explícitas con @callback, @behaviour) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/es/advanced/41_topic_behaviours_definici_n_de_interfaces_expl_citas_con_callback_behaviour.livemd) |
-| 42 | 🔴Advanced | Topic | Protocols (Polimorfismo de Datos vía defprotocol, defimpl) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/es/advanced/42_topic_protocols_polimorfismo_de_datos_v_a_defprotocol_defimpl.livemd) |
-| 43 | 🔴Advanced | PROJECT | Motor de Parser de Documentos Polimórfico con Suite Completa de ExUnit | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/es/advanced/43_project_motor_de_parser_de_documentos_polim_rfico_con_suite_completa_de_exunit.livemd) |
-| 44 | 🔴Advanced | Topic | Typespecs y Declaraciones de Tipos Personalizados (@spec, @type, @opaque) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/es/advanced/44_topic_typespecs_y_declaraciones_de_tipos_personalizados_spec_type_opaque.livemd) |
-| 45 | 🔴Advanced | Topic | Análisis Estático con Dialyzer (Verificación de Tipos y Resolución de Advertencias Comunes) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/es/advanced/45_topic_an_lisis_est_tico_con_dialyzer_verificaci_n_de_tipos_y_resoluci_n_de_advertencias_comunes.livemd) |
-| 46 | 🔴Advanced | Topic | Mecánica de Manejo de Excepciones (try, rescue, raise vs Result Tuples) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/es/advanced/46_topic_mec_nica_de_manejo_de_excepciones_try_rescue_raise_vs_result_tuples.livemd) |
-| 47 | 🔴Advanced | Topic | Interoperabilidad con Erlang (Llamadas a módulos nativos ej: :crypto, :math) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/es/advanced/47_topic_interoperabilidad_con_erlang_llamadas_a_m_dulos_nativos_ej_crypto_math.livemd) |
-| 48 | 🔴Advanced | Topic | Construcción de Ejecutables de CLI (escript, definiendo puntos de entrada main/1) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/es/advanced/48_topic_construcci_n_de_ejecutables_de_cli_escript_definiendo_puntos_de_entrada_main_1.livemd) |
-| 49 | 🔴Advanced | Topic | Fundamentos de Metaprogramación (El AST, quote, unquote) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/es/advanced/49_topic_fundamentos_de_metaprogramaci_n_el_ast_quote_unquote.livemd) |
-| 50 | 🔴Advanced | PROJECT | Herramienta de CLI Escript Completamente Tipada y Probada para Transformación Automática de Datos | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/es/advanced/50_project_herramienta_de_cli_escript_completamente_tipada_y_probada_para_transformaci_n_autom_tica_de_datos.livemd) |
+| 1 | 🟢Beginner | Topic | Pengenalan Mix & Module Encapsulation (mix new, defmodule, def) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/id/beginner/1_topic_pengenalan_mix_module_encapsulation_mix_new_defmodule_def.livemd) |
+| 2 | 🟢Beginner | Topic | Tipe Data Primitif (Integers, Floats, Atoms, Booleans) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/id/beginner/2_topic_tipe_data_primitif_integers_floats_atoms_booleans.livemd) |
+| 3 | 🟢Beginner | Topic | Operasi String & Interpolasi (<>, #{}) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/id/beginner/3_topic_operasi_string_interpolasi.livemd) |
+| 4 | 🟢Beginner | Topic | Struktur Tuple & Destructuring Dasar ({}) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/id/beginner/4_topic_struktur_tuple_destructuring_dasar.livemd) |
+| 5 | 🟢Beginner | Topic | Dasar-dasar List (Cons operator [hlt], ++, --) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/id/beginner/5_topic_dasar_dasar_list_cons_operator_h_t.livemd) |
+| 6 | 🟢Beginner | PROJECT | Encapsulated Type Conversion & Greeting Module | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/id/beginner/6_project_encapsulated_type_conversion_greeting_module.livemd) |
+| 7 | 🟢Beginner | Topic | Dasar-dasar Pattern Matching (Match operator =, Pin operator ^) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/id/beginner/7_topic_dasar_dasar_pattern_matching_match_operator_pin_operator.livemd) |
+| 8 | 🟢Beginner | Topic | Keyword Lists & Argumen Default | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/id/beginner/8_topic_keyword_lists_argumen_default.livemd) |
+| 9 | 🟢Beginner | Topic | Dasar-dasar Map & Akses (%{...}, map.key, map[:key]) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/id/beginner/9_topic_dasar_dasar_map_akses_map_key_map_key.livemd) |
+| 10 | 🟢Beginner | Topic | Multi-Clause Functions melalui Pattern Matching | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/id/beginner/10_topic_multi_clause_functions_melalui_pattern_matching.livemd) |
+| 11 | 🟢Beginner | Topic | Guard Clauses dalam Signature Fungsi (when) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/id/beginner/11_topic_guard_clauses_dalam_signature_fungsi_when.livemd) |
+| 12 | 🟢Beginner | Topic | Dokumentasi Modul (@moduledoc, @doc) & Praktik Terbaik | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/id/beginner/12_topic_dokumentasi_modul_moduledoc_doc_praktik_terbaik.livemd) |
+| 13 | 🟢Beginner | PROJECT | User Profile Extractor melalui Multi-Clause Pattern Matching | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/id/beginner/13_project_user_profile_extractor_melalui_multi_clause_pattern_matching.livemd) |
+| 14 | 🟡Intermediate | Topic | Ekosistem Mix: Dependensi Eksternal (Hex) & Format Kode (mix format) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/id/intermediate/14_topic_ekosistem_mix_dependensi_eksternal_hex_format_kode_mix_format.livemd) |
+| 15 | 🟡Intermediate | Topic | Komposisi Fungsional & Pipe Operator (` | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/id/intermediate/15_topic_komposisi_fungsional_pipe_operator.livemd) |
+| 16 | 🟡Intermediate | Topic | Control Flow: Pernyataan case & Match Errors | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/id/intermediate/16_topic_control_flow_pernyataan_case_match_errors.livemd) |
+| 17 | 🟡Intermediate | Topic | Control Flow: Pernyataan cond & Truthiness | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/id/intermediate/17_topic_control_flow_pernyataan_cond_truthiness.livemd) |
+| 18 | 🟡Intermediate | Topic | Module Attributes sebagai Konstanta (@) & Mendefinisikan Structs (defstruct) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/id/intermediate/18_topic_module_attributes_sebagai_konstanta_mendefinisikan_structs_defstruct.livemd) |
+| 19 | 🟡Intermediate | Topic | Bekerja dengan Structs (Pembuatan, Pembaruan, dan Matching Ketat) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/id/intermediate/19_topic_bekerja_dengan_structs_pembuatan_pembaruan_dan_matching_ketat.livemd) |
+| 20 | 🟡Intermediate | PROJECT | Pipeline Transformasi Inventaris Berbasis Struct | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/id/intermediate/20_project_pipeline_transformasi_inventaris_berbasis_struct.livemd) |
+| 21 | 🟡Intermediate | Topic | Pembaruan Map & Manipulasi Mendalam (Map.put, update_in, put_in) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/id/intermediate/21_topic_pembaruan_map_manipulasi_mendalam_map_put_update_in_put_in.livemd) |
+| 22 | 🟡Intermediate | Topic | Modul Time & Date (Date, Time, DateTime, NaiveDateTime) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/id/intermediate/22_topic_modul_time_date_date_time_datetime_naivedatetime.livemd) |
+| 23 | 🟡Intermediate | Topic | Dasar-dasar Rekursi: Base Cases & Recursive Steps | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/id/intermediate/23_topic_dasar_dasar_rekursi_base_cases_recursive_steps.livemd) |
+| 24 | 🟡Intermediate | Topic | Tail Call Optimization (TCO) & Accumulators | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/id/intermediate/24_topic_tail_call_optimization_tco_accumulators.livemd) |
+| 25 | 🟡Intermediate | Topic | Sigils (~s, ~w, ~r) & Regular Expressions (Modul Regex) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/id/intermediate/25_topic_sigils_s_w_r_regular_expressions_modul_regex.livemd) |
+| 26 | 🟡Intermediate | PROJECT | Pipeline Parser Data Kompleks Rekursif | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/id/intermediate/26_project_pipeline_parser_data_kompleks_rekursif.livemd) |
+| 27 | 🟡Intermediate | Topic | Modul Enum: Transformasi Inti (map, filter, reduce) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/id/intermediate/27_topic_modul_enum_transformasi_inti_map_filter_reduce.livemd) |
+| 28 | 🟡Intermediate | Topic | Modul Enum: Agregasi & Pencarian (find, group_by, all?) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/id/intermediate/28_topic_modul_enum_agregasi_pencarian_find_group_by_all.livemd) |
+| 29 | 🔴Advanced | Topic | Modul Stream: Evaluasi Lazy vs Eager | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/id/advanced/29_topic_modul_stream_evaluasi_lazy_vs_eager.livemd) |
+| 30 | 🔴Advanced | Topic | Comprehensions (for, generator, filter, into) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/id/advanced/30_topic_comprehensions_for_generator_filter_into.livemd) |
+| 31 | 🔴Advanced | Topic | Pola Penanganan Error: Result Tuples ({:ok, val}, {:error, reason}) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/id/advanced/31_topic_pola_penanganan_error_result_tuples_ok_val_error_reason.livemd) |
+| 32 | 🔴Advanced | Topic | Special Form with (Rantai Result Tuples) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/id/advanced/32_topic_special_form_with_rantai_result_tuples.livemd) |
+| 33 | 🔴Advanced | PROJECT | Stream & Filter Pemrosesan Data Lazy Skala Besar | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/id/advanced/33_project_stream_filter_pemrosesan_data_lazy_skala_besar.livemd) |
+| 34 | 🔴Advanced | Topic | Konteks Direktif Modul (alias, require, import, use) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/id/advanced/34_topic_konteks_direktif_modul_alias_require_import_use.livemd) |
+| 35 | 🔴Advanced | Topic | Binary Pattern Matching & Manipulasi Bitstring (<<>>) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/id/advanced/35_topic_binary_pattern_matching_manipulasi_bitstring.livemd) |
+| 36 | 🔴Advanced | Topic | Operasi Sistem Berkas (File.read, File.stream!, Path) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/id/advanced/36_topic_operasi_sistem_berkas_file_read_file_stream_path.livemd) |
+| 37 | 🔴Advanced | PROJECT | Prosesor Berkas Biner Terenkapsulasi & Ekstraktor Metadata | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/id/advanced/37_project_prosesor_berkas_biner_terenkapsulasi_ekstraktor_metadata.livemd) |
+| 38 | 🔴Advanced | Topic | Dasar-dasar ExUnit (use ExUnit.Case, test, assert, refute) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/id/advanced/38_topic_dasar_dasar_exunit_use_exunit_case_test_assert_refute.livemd) |
+| 39 | 🔴Advanced | Topic | Manajemen State Pengujian ExUnit (setup, setup_all, contexts) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/id/advanced/39_topic_manajemen_state_pengujian_exunit_setup_setup_all_contexts.livemd) |
+| 40 | 🔴Advanced | Topic | ExUnit Doctests (Menjalankan contoh @doc sebagai pengujian) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/id/advanced/40_topic_exunit_doctests_menjalankan_contoh_doc_sebagai_pengujian.livemd) |
+| 41 | 🔴Advanced | Topic | Behaviours (Mendefinisikan Interface Eksplisit dengan @callback, @behaviour) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/id/advanced/41_topic_behaviours_mendefinisikan_interface_eksplisit_dengan_callback_behaviour.livemd) |
+| 42 | 🔴Advanced | Topic | Protocols (Polimorfisme Data melalui defprotocol, defimpl) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/id/advanced/42_topic_protocols_polimorfisme_data_melalui_defprotocol_defimpl.livemd) |
+| 43 | 🔴Advanced | PROJECT | Engine Parser Dokumen Polimorfik dengan Full ExUnit Suite | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/id/advanced/43_project_engine_parser_dokumen_polimorfik_dengan_full_exunit_suite.livemd) |
+| 44 | 🔴Advanced | Topic | Typespecs & Deklarasi Tipe Kustom (@spec, @type, @opaque) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/id/advanced/44_topic_typespecs_deklarasi_tipe_kustom_spec_type_opaque.livemd) |
+| 45 | 🔴Advanced | Topic | Analisis Statis dengan Dialyzer (Pengecekan Tipe & Resolusi Warning Umum) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/id/advanced/45_topic_analisis_statis_dengan_dialyzer_pengecekan_tipe_resolusi_warning_umum.livemd) |
+| 46 | 🔴Advanced | Topic | Mekanisme Penanganan Pengecualian (try, rescue, raise vs Result Tuples) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/id/advanced/46_topic_mekanisme_penanganan_pengecualian_try_rescue_raise_vs_result_tuples.livemd) |
+| 47 | 🔴Advanced | Topic | Interoperabilitas Erlang (Pemanggilan modul asli seperti :crypto, :math) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/id/advanced/47_topic_interoperabilitas_erlang_pemanggilan_modul_asli_seperti_crypto_math.livemd) |
+| 48 | 🔴Advanced | Topic | Membangun CLI Executables (escript, mendefinisikan entry point main/1) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/id/advanced/48_topic_membangun_cli_executables_escript_mendefinisikan_entry_point_main_1.livemd) |
+| 49 | 🔴Advanced | Topic | Dasar-dasar Metaprogramming (AST, quote, unquote) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/id/advanced/49_topic_dasar_dasar_metaprogramming_ast_quote_unquote.livemd) |
+| 50 | 🔴Advanced | PROJECT | Alat CLI Escript yang Teruji dan Ber-type untuk Transformasi Data Otomatis | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/id/advanced/50_project_alat_cli_escript_yang_teruji_dan_ber_type_untuk_transformasi_data_otomatis.livemd) |
 
-> 📌 *La tabla completa (50 topics) se genera automáticamente desde nuestro Excel maestro. Los enlaces se activarán progresivamente.*
-
----
-
-## 🏛️ Arquitectura & Mentores
-
-Cada laboratorio incluye un **Explanation Gate** donde nuestros Mentores de IA (como el *Staff Engineer Auditor*) validan tu lógica antes de avanzar a la siguiente etapa.
-
-- **Safe Guide:** Mentor cálido para Stage 1
-- **Guardia Fronterizo:** Mentor sarcástico para auditoría de código
-- **Próximamente:** Jinpachi Ego (Stateful5s)
+> 📌 *Tabel lengkap (50 topik) dibuat secara otomatis dari Excel Master kami. Tautan akan diaktifkan secara progresif.*
 
 ---
 
-## 🔗 Enlaces útiles
+## 🏛️ Arsitektur & Mentor
 
-[Coding5s.com](https://coding5s.com) | [Udemy (Coding5s Premium)](https://www.udemy.com/user/wilbarrios/) | [GitHub](https://github.com/WilfredoBarrios) |
+Setiap laboratorium mencakup **Explanation Gate** di mana Mentor AI kami (seperti *Staff Engineer Auditor*) memvalidasi logika Anda sebelum lanjut ke tahap berikutnya.
 
----
-
-## 🤝 Contribuciones
-
-¿Encontraste un error en las traducciones o en la lógica de los laboratorios? ¿Quieres ayudar a traducir a un nuevo idioma?
-
-¡Siéntete libre de abrir un **Pull Request** o una **Issue**! Queremos que Coding5s sea la mejor fuente de aprendizaje de Elixir en todos los idiomas.
+- **Safe Guide:** Mentor yang ramah untuk Tahap 1
+- **Border Guard:** Mentor sarkastik untuk audit kode
+- **Segera Hadir:** Jinpachi Ego (Stateful5s)
 
 ---
 
-## 📄 Licencia
+## 🔗 Tautan Berguna
+
+[Coding5s.com](https://coding5s.com) | [Udemy (Coding5s Premium)](https://www.udemy.com/user/wilbarrios/) | [GitHub](https://github.com/WilfredoBarrios) | [LinkedIn](https://linkedin.com/in/wilfredobarrios)
+
+---
+
+## 🤝 Kontribusi
+
+Apakah Anda menemukan kesalahan dalam terjemahan atau logika laboratorium? Ingin membantu menerjemahkan ke bahasa baru?
+
+Jangan ragu untuk membuka **Pull Request** atau **Issue**! Kami ingin Coding5s menjadi sumber pembelajaran Elixir terbaik dalam semua bahasa.
+
+---
+
+## 📄 Lisensi
 
 MIT © [Wilfredo Barrios](https://github.com/WilfredoBarrios)
 
 ---
-⚡ *Coding5s System — Aprendizaje diseñado para la maestría técnica.*
+⚡ *Coding5s System — Pembelajaran yang dirancang untuk penguasaan teknis.*
