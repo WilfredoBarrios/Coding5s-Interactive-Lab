@@ -31,6 +31,8 @@ Our methodology is based on **Controlled Cognitive Friction**. Each lab will gui
 
 Haz clic en el botón **Run in Livebook** para abrir el laboratorio interactivo directamente en tu entorno.
 
+| # |  Level |  Type |Topic Name | Interactive Lab |
+| :--- | :--- | :--- | :--- | :--- |
 | 1 | 🟢Beginner | Topic | Introduction to Mix & Module Encapsulation (mix new, defmodule, def) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/en/beginner/1_topic_introduction_to_mix_module_encapsulation_mix_new_defmodule_def.livemd) |
 | 2 | 🟢Beginner | Topic | Primitive Data Types (Integers, Floats, Atoms, Booleans) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/en/beginner/2_topic_primitive_data_types_integers_floats_atoms_booleans.livemd) |
 | 3 | 🟢Beginner | Topic | String Operations & Interpolation (<>, #{}) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/en/beginner/3_topic_string_operations_interpolation.livemd) |
