@@ -93,8 +93,6 @@ Haz clic en el botón **Run in Livebook** para abrir el laboratorio interactivo 
 | 48 | 🔴Advanced | Topic | Construção de Executáveis CLI (escript, definindo pontos de entrada main/1) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/pt/advanced/48_topic_constru_o_de_execut_veis_cli_escript_definindo_pontos_de_entrada_main_1.livemd) |
 | 49 | 🔴Advanced | Topic | Fundamentos de Metaprogramação (O AST, quote, unquote) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/pt/advanced/49_topic_fundamentos_de_metaprograma_o_o_ast_quote_unquote.livemd) |
 | 50 | 🔴Advanced | PROJECT | Ferramenta CLI Escript Totalmente Tipada e Testada para Transformação Automática de Dados | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/pt/advanced/50_project_ferramenta_cli_escript_totalmente_tipada_e_testada_para_transforma_o_autom_tica_de_dados.livemd) |
-<img width="311" height="1041" alt="image" src="https://github.com/user-attachments/assets/55ec5385-a090-451f-beca-f2f6397e7b9e" />
-
 
 ---
 
