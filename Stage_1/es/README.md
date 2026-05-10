@@ -1,6 +1,10 @@
 # 🧪 Elixir Interactive Lab — Español 🇪🇸
 
-> **Aprende Elixir escribiendo código, no solo leyéndolo.**
+[![Livebook](https://img.shields.io/badge/Livebook-FF6B6B?logo=livebook&logoColor=white)](https://livebook.dev)
+[![Elixir](https://img.shields.io/badge/Elixir-4B275F?logo=elixir&logoColor=white)](https://elixir-lang.org)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+> **Aprende Elixir escribiendo código, no solo leyéndolo.**  
 > Esta es la versión en español del currículo interactivo de **Coding5s**, diseñado para llevarte desde los fundamentos hasta la maestría técnica utilizando Livebook.
 
 ---
@@ -14,36 +18,37 @@ Para experimentar este laboratorio de forma interactiva, necesitas tener **Liveb
 
 ---
 
-## 📚 Currículo de 5 Etapas (Stage 1: Practice)
+## 📚 Metodología Coding5s (5 Stages)
 
-Nuestra metodología se basa en la **Fricción Cognitiva Controlada**. Cada laboratorio te guiará a través de:
-1. **Práctica:** Escribir código desde cero.
-2. **Depuración (Debug):** Encontrar errores lógicos intencionales.
-3. **Completar:** Llenar vacíos arquitectónicos.
-4. **Refactorizar:** Optimizar el código existente.
-5. **Extender:** Añadir nuevas funcionalidades.
+Nuestro enfoque se basa en la **Fricción Cognitiva Controlada**. Cada laboratorio te guiará a través de:
+
+| Stage | Nombre | Objetivo |
+|-------|--------|----------|
+| **1** | Practice | Escribir código desde cero |
+| **2** | Debug | Encontrar errores lógicos intencionales |
+| **3** | Complete | Llenar vacíos arquitectónicos |
+| **4** | Refactor | Optimizar el código existente |
+| **5** | Extend | Añadir nuevas funcionalidades |
+
+**Este repositorio contiene la Stage 1 (gratuita).** Las Stages 2-5 están disponibles en la versión premium.
 
 ---
 
 ## 🧠 El Mentor Socrático (IA)
 
-Dentro de cada archivo encontrarás un **Prompt de Mentor**. Este no es un chatbot común; es un simulador de mentor de élite que:
-* **No te dará la respuesta directamente** (al principio).
-* Te hará preguntas para que tú mismo descubras el error.
-* Utiliza analogías del mundo real para explicar conceptos de la BEAM.
-* Te ayudará a eliminar el "Vibe Coding" y construir una verdadera intuición de ingeniería.
+Dentro de cada archivo encontrarás un **Prompt de Mentor**. No es un chatbot común; es un simulador de mentor de élite que:
+
+- **No te dará la respuesta directamente** (al principio)
+- Te hará preguntas para que tú mismo descubras el error
+- Utiliza analogías del mundo real para explicar conceptos de la BEAM
+- Te ayuda a eliminar el "Vibe Coding" y construir verdadera intuición de ingeniería
+- Hazle preguntas y te dará dará respuestas nivel senior.
 
 ---
 
-## 🛠️ Tabla de Contenidos
+## 🛠️ Currículo Interactivo — Stage 1: Practice Lab
 
-## 🚀 Interactive Curriculum (Stage 1)
-
-Haz clic en el botón **Run in Livebook** para abrir el laboratorio interactivo directamente en tu entorno.
-
-## 🚀 Interactive Curriculum (Stage 1)
-
-Haz clic en el botón **Run in Livebook** para abrir el laboratorio interactivo directamente en tu entorno.
+Haz clic en el botón **Run in Livebook** para abrir cada laboratorio interactivo directamente en tu entorno.
 
 | # |  Level |  Type |Topic Name | Interactive Lab |
 | :--- | :--- | :--- | :--- | :--- |
@@ -98,19 +103,37 @@ Haz clic en el botón **Run in Livebook** para abrir el laboratorio interactivo 
 | 49 | 🔴Advanced | Topic | Fundamentos de Metaprogramación (El AST, quote, unquote) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/es/advanced/49_topic_fundamentos_de_metaprogramaci_n_el_ast_quote_unquote.livemd) |
 | 50 | 🔴Advanced | PROJECT | Herramienta de CLI Escript Completamente Tipada y Probada para Transformación Automática de Datos | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/es/advanced/50_project_herramienta_de_cli_escript_completamente_tipada_y_probada_para_transformaci_n_autom_tica_de_datos.livemd) |
 
+> 📌 *La tabla completa (50 topics) se genera automáticamente desde nuestro Excel maestro. Los enlaces se activarán progresivamente.*
 
 ---
 
-### 🏛️ Architecture & Mentors
+## 🏛️ Arquitectura & Mentores
+
 Cada laboratorio incluye un **Explanation Gate** donde nuestros Mentores de IA (como el *Staff Engineer Auditor*) validan tu lógica antes de avanzar a la siguiente etapa.
 
-[Coding5s.com](https://coding5s.com) | [Udemy](https://www.udemy.com/user/wilbarrios/)
+- **Safe Guide:** Mentor cálido para Stage 1
+- **Guardia Fronterizo:** Mentor sarcástico para auditoría de código
+- **Próximamente:** Jinpachi Ego (Stateful5s)
+
+---
+
+## 🔗 Enlaces útiles
+
+[Coding5s.com](https://coding5s.com) | [Udemy (Coding5s Premium)](https://www.udemy.com/user/wilbarrios/) | [GitHub](https://github.com/WilfredoBarrios) | [LinkedIn](https://linkedin.com/in/wilfredobarrios)
 
 ---
 
 ## 🤝 Contribuciones
 
-Si encuentras algún error en las traducciones o en la lógica de los laboratorios, ¡siéntete libre de abrir un Pull Request! Queremos que esta sea la mejor fuente de aprendizaje de Elixir en español.
+¿Encontraste un error en las traducciones o en la lógica de los laboratorios? ¿Quieres ayudar a traducir a un nuevo idioma?
+
+¡Siéntete libre de abrir un **Pull Request** o una **Issue**! Queremos que Coding5s sea la mejor fuente de aprendizaje de Elixir en todos los idiomas.
+
+---
+
+## 📄 Licencia
+
+MIT © [Wilfredo Barrios](https://github.com/WilfredoBarrios)
 
 ---
 ⚡ *Coding5s System — Aprendizaje diseñado para la maestría técnica.*
