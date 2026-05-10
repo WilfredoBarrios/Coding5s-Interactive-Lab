@@ -1,7 +1,10 @@
 # 🧪 Elixir Interactive Lab — Türkçe 🇹🇷
 
-> **Elixir'i sadece okuyarak değil, kod yazarak öğrenin.**
-> Bu, Livebook kullanarak temelden teknik ustalığa kadar size rehberlik etmek için tasarlanmış **Coding5s** etkileşimli müfredatının Türkçe versiyonudur.
+[![Livebook](https://img.shields.io/badge/Livebook-FF6B6B?logo=livebook&logoColor=white)](https://livebook.dev)
+[![Elixir](https://img.shields.io/badge/Elixir-4B275F?logo=elixir&logoColor=white)](https://elixir-lang.org)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+> **Elixir'i sadece okuyarak değil, kod yazarak öğrenin.** > Bu, temellerden teknik ustalığa kadar size rehberlik etmek için tasarlanmış **Coding5s** etkileşimli müfredatının Türkçe versiyonudur.
 
 ---
 
@@ -10,26 +13,41 @@
 Bu laboratuvarı etkileşimli olarak deneyimlemek için bilgisayarınızda **Livebook** kurulu olmalıdır.
 
 1. **Livebook'u Kurun:** [livebook.dev](https://livebook.dev) adresinden indirin.
-2. **Bir Laboratuvar Açın:** Aşağıdaki klasörlere göz atabilir ve her dosyanın içindeki **"Run in Livebook"** düğmesine tıklayabilirsiniz.
+2. **Bir Laboratuvar Açın:** Aşağıdaki klasörlere göz atabilir ve her dosyanın içindeki **"Run in Livebook"** düğmesine tıklayabilir veya URL'yi doğrudan Livebook oturumunuza aktarabilirsiniz.
 
 ---
 
-## 📚 5 Aşamalı Müfredat (Stage 1: Practice)
+## 📚 Coding5s Metodolojisi (5 Aşama)
 
-Metodolojimiz **Kontrollü Bilişsel Sürtünme** üzerine kuruludur. Her laboratuvar size şunlarda rehberlik edecektir:
-1. **Pratik:** Sıfırdan kod yazma.
-2. **Hata Ayıklama (Debug):** Kasıtlı mantık hatalarını bulma.
-3. **Tamamlama:** Mimari boşlukları doldurma.
-4. **Refaktör:** Mevcut kodu optimize etme.
-5. **Genişletme:** Yeni özellikler ekleme.
+Yaklaşımımız **Kontrollü Bilişsel Sürtünme (Controlled Cognitive Friction)** üzerine kuruludur. Her laboratuvar size şu aşamalarda rehberlik edecektir:
+
+| Aşama | Adı | Hedef |
+|-------|--------|----------|
+| **1** | Practice | Sıfırdan kod yazma |
+| **2** | Debug | Kasıtlı mantık hatalarını bulma |
+| **3** | Complete | Mimari boşlukları doldurma |
+| **4** | Refactor | Mevcut kodu optimize etme |
+| **5** | Extend | Yeni özellikler ekleme |
+
+**Bu depo Aşama 1'i (Ücretsiz) içerir.** Aşama 2-5 premium versiyonda mevcuttur.
 
 ---
 
-## 🛠️ İçindekiler
+## 🧠 Sokratik Mentor (Yapay Zeka)
 
-## 🚀 Interactive Curriculum (Stage 1)
+Her dosyanın içinde bir **Mentor İstemi (Prompt)** bulacaksınız. Bu sıradan bir chatbot değildir; şu özelliklere sahip seçkin bir mentor simülatörüdür:
 
-Haz clic en el botón **Run in Livebook** para abrir el laboratorio interactivo directamente en tu entorno.
+- **Size cevabı doğrudan vermez** (başlangıçta)
+- Hatayı kendiniz keşfetmeniz için size sorular sorar
+- BEAM kavramlarını açıklamak için gerçek dünya analojilerini kullanır
+- "Vibe Coding"i ortadan kaldırmanıza ve gerçek mühendislik sezgisi oluşturmanıza yardımcı olur
+- Ona sorular sorun, size kıdemli mühendis seviyesinde yanıtlar verecektir.
+
+---
+
+## 🛠️ Etkileşimli Müfredat — Aşama 1: Uygulama Laboratuvarı
+
+Etkileşimli laboratuvarı doğrudan ortamınızda açmak için **Run in Livebook** düğmesine tıklayın.
 
 | # |  Level |  Type |Topic Name | Interactive Lab |
 | :--- | :--- | :--- | :--- | :--- |
@@ -84,18 +102,37 @@ Haz clic en el botón **Run in Livebook** para abrir el laboratorio interactivo 
 | 49 | 🔴Advanced | Topic | Metaprogramlama Temelleri (AST, quote, unquote) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/tr/advanced/49_topic_metaprogramlama_temelleri_ast_quote_unquote.livemd) |
 | 50 | 🔴Advanced | PROJECT | Otomatik Veri Dönüşümü için Tam Tip Tanımlı ve Test Edilmiş Escript CLI Aracı | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/tr/advanced/50_project_otomatik_veri_d_n_m_i_in_tam_tip_tan_ml_ve_test_edilmi_escript_cli_arac.livemd) |
 
----
-
-### 🏛️ Architecture & Mentors
-Cada laboratorio incluye un **Explanation Gate** donde nuestros Mentores de IA (como el *Staff Engineer Auditor*) validan tu lógica antes de avanzar a la siguiente etapa.
-
-[Coding5s.com](https://coding5s.com) | [Udemy](https://www.udemy.com/user/wilbarrios/)
+> 📌 *Tam tablo (50 konu) Ana Excel dosyamızdan otomatik olarak oluşturulur. Bağlantılar kademeli olarak aktif edilecektir.*
 
 ---
 
-## 🧠 Sokratik Mentor (Yapay Zeka)
+## 🏛️ Mimari ve Mentorlar
 
-Her dosyanın içinde bir **Mentor İstemi (Prompt)** bulacaksınız. Bu sıradan bir chatbot değildir; mühendislik sezginizi keskinleştirmek ve "Vibe Coding"i ortadan kaldırmak için tasarlanmış seçkin bir mentor simülatörüdür.
+Her laboratuvar, bir sonraki aşamaya geçmeden önce mantığınızı doğrulayan (Staff Engineer Auditor gibi) AI Mentorlarımızın bulunduğu bir **Explanation Gate** içerir.
+
+- **Safe Guide:** Aşama 1 için sıcakkanlı mentor
+- **Sınır Muhafızı:** Kod denetimi için alaycı mentor
+- **Yakında:** Jinpachi Ego (Stateful5s)
 
 ---
-⚡ *Coding5s System — Teknik ustalık için tasarlanmış öğrenme.*
+
+## 🔗 Yararlı Bağlantılar
+
+[Coding5s.com](https://coding5s.com) | [Udemy (Coding5s Premium)](https://www.udemy.com/user/wilbarrios/) | [GitHub](https://github.com/WilfredoBarrios)
+
+---
+
+## 🤝 Katkıda Bulunma
+
+Çevirilerde veya laboratuvar mantığında bir hata mı buldunuz? Yeni bir dile çevrilmesine yardımcı olmak mı istiyorsunuz?
+
+Bir **Pull Request** veya **Issue** açmaktan çekinmeyin! Coding5s'in her dilde en iyi Elixir öğrenme kaynağı olmasını istiyoruz.
+
+---
+
+## 📄 Lisans
+
+MIT © [Wilfredo Barrios](https://github.com/WilfredoBarrios)
+
+---
+⚡ *Coding5s Sistemi — Teknik ustalık için tasarlanmış öğrenme.*
