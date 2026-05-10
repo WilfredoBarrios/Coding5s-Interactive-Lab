@@ -1,7 +1,10 @@
 # 🧪 Elixir Interactive Lab — Tiếng Việt 🇻🇳
 
-> **Học Elixir bằng cách viết mã, không chỉ bằng cách đọc.**
-> Đây là phiên bản tiếng Việt của chương trình đào tạo tương tác **Coding5s**, được thiết kế để đưa bạn từ kiến thức cơ bản đến thành thạo kỹ thuật bằng cách sử dụng Livebook.
+[![Livebook](https://img.shields.io/badge/Livebook-FF6B6B?logo=livebook&logoColor=white)](https://livebook.dev)
+[![Elixir](https://img.shields.io/badge/Elixir-4B275F?logo=elixir&logoColor=white)](https://elixir-lang.org)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+> **Học Elixir bằng cách viết mã, không chỉ bằng cách đọc.** > Đây là phiên bản tiếng Việt của chương trình giảng dạy tương tác **Coding5s**, được thiết kế để đưa bạn từ những kiến thức cơ bản đến tinh thông kỹ thuật bằng cách sử dụng Livebook.
 
 ---
 
@@ -10,26 +13,41 @@
 Để trải nghiệm phòng thí nghiệm này một cách tương tác, bạn cần cài đặt **Livebook** trên máy tính của mình.
 
 1. **Cài đặt Livebook:** Tải xuống tại [livebook.dev](https://livebook.dev).
-2. **Mở phòng thí nghiệm:** Bạn có thể điều hướng các thư mục bên dưới và nhấp vào nút **"Run in Livebook"** bên trong mỗi tệp.
+2. **Mở phòng thí nghiệm:** Bạn có thể duyệt các thư mục bên dưới và nhấp vào nút **"Run in Livebook"** bên trong mỗi tệp, hoặc nhập trực tiếp URL vào phiên làm việc Livebook của bạn.
 
 ---
 
-## 📚 Chương trình học 5 giai đoạn (Stage 1: Practice)
+## 📚 Phương pháp Coding5s (5 Stages)
 
-Phương pháp của chúng tôi dựa trên **Ma sát nhận thức có kiểm soát**. Mỗi bài thực hành sẽ hướng dẫn bạn qua:
-1. **Thực hành:** Viết mã từ đầu.
-2. **Gỡ lỗi (Debug):** Tìm các lỗi logic có chủ đích.
-3. **Hoàn thành:** Lấp đầy các khoảng trống kiến trúc.
-4. **Tối ưu hóa:** Cải thiện mã hiện có.
-5. **Mở rộng:** Thêm các tính năng mới.
+Cách tiếp cận của chúng tôi dựa trên **Ma sát nhận thức có kiểm soát (Controlled Cognitive Friction)**. Mỗi phòng thí nghiệm sẽ hướng dẫn bạn qua:
+
+| Stage | Tên | Mục tiêu |
+|-------|--------|----------|
+| **1** | Practice | Viết mã từ con số không |
+| **2** | Debug | Tìm các lỗi logic có chủ đích |
+| **3** | Complete | Lấp đầy các khoảng trống kiến trúc |
+| **4** | Refactor | Tối ưu hóa mã hiện có |
+| **5** | Extend | Thêm các tính năng mới |
+
+**Kho lưu trữ này chứa Stage 1 (Miễn phí).** Các Stage 2-5 có sẵn trong phiên bản Premium.
 
 ---
 
-## 🛠️ Mục lục
+## 🧠 Cố vấn Socratic (AI)
 
-## 🚀 Interactive Curriculum (Stage 1)
+Bên trong mỗi tệp, bạn sẽ tìm thấy một **Mentor Prompt**. Đây không phải là một chatbot thông thường; nó là một trình mô phỏng cố vấn cấp cao giúp:
 
-Haz clic en el botón **Run in Livebook** para abrir el laboratorio interactivo directamente en tu entorno.
+- **Không đưa cho bạn câu trả lời trực tiếp** (lúc đầu)
+- Đặt câu hỏi để bạn tự phát hiện ra lỗi
+- Sử dụng các ví dụ thực tế để giải thích các khái niệm BEAM
+- Giúp bạn loại bỏ "Vibe Coding" và xây dựng tư duy kỹ thuật thực thụ
+- Hãy đặt câu hỏi và nó sẽ đưa cho bạn câu trả lời ở cấp độ Senior.
+
+---
+
+## 🛠️ Lộ trình tương tác — Stage 1: Practice Lab
+
+Nhấp vào nút **Run in Livebook** để mở từng phòng thí nghiệm tương tác trực tiếp trong môi trường của bạn.
 
 | # |  Level |  Type |Topic Name | Interactive Lab |
 | :--- | :--- | :--- | :--- | :--- |
@@ -84,18 +102,37 @@ Haz clic en el botón **Run in Livebook** para abrir el laboratorio interactivo 
 | 49 | 🔴Advanced | Topic | Cơ bản về Metaprogramming (AST, quote, unquote) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/vi/advanced/49_topic_c_b_n_v_metaprogramming_ast_quote_unquote.livemd) |
 | 50 | 🔴Advanced | PROJECT | Công cụ CLI Escript được định kiểu và kiểm thử đầy đủ để tự động hóa chuyển đổi dữ liệu | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/vi/advanced/50_project_c_ng_c_cli_escript_c_nh_ki_u_v_ki_m_th_y_t_ng_h_a_chuy_n_i_d_li_u.livemd) |
 
----
-
-### 🏛️ Architecture & Mentors
-Cada laboratorio incluye un **Explanation Gate** donde nuestros Mentores de IA (como el *Staff Engineer Auditor*) validan tu lógica antes de avanzar a la siguiente etapa.
-
-[Coding5s.com](https://coding5s.com) | [Udemy](https://www.udemy.com/user/wilbarrios/)
+> 📌 *Bảng đầy đủ (50 chủ đề) được tạo tự động từ tệp Excel Master của chúng tôi. Các liên kết sẽ được kích hoạt dần dần.*
 
 ---
 
-## 🧠 Cố vấn Socratic (AI)
+## 🏛️ Kiến trúc & Cố vấn
 
-Bên trong mỗi tệp, bạn sẽ tìm thấy một **Prompt dành cho Cố vấn**. Đây không phải là một chatbot thông thường; nó là một trình giả lập cố vấn ưu tú giúp bạn rèn luyện tư duy kỹ thuật và loại bỏ "Vibe Coding".
+Mỗi phòng thí nghiệm bao gồm một **Explanation Gate**, nơi các Cố vấn AI của chúng tôi (như *Staff Engineer Auditor*) sẽ xác nhận logic của bạn trước khi chuyển sang giai đoạn tiếp theo.
+
+- **Safe Guide:** Cố vấn thân thiện cho Stage 1
+- **Border Guard:** Cố vấn châm biếm để kiểm tra mã nguồn
+- **Sắp ra mắt:** Jinpachi Ego (Stateful5s)
 
 ---
-⚡ *Coding5s System — Được thiết kế để thành thạo kỹ thuật.*
+
+## 🔗 Liên kết hữu ích
+
+[Coding5s.com](https://coding5s.com) | [Udemy (Coding5s Premium)](https://www.udemy.com/user/wilbarrios/) | [GitHub](https://github.com/WilfredoBarrios)
+
+---
+
+## 🤝 Đóng góp
+
+Bạn tìm thấy lỗi trong bản dịch hoặc trong logic của phòng thí nghiệm? Bạn muốn giúp dịch sang một ngôn ngữ mới?
+
+Đừng ngần ngại mở một **Pull Request** hoặc một **Issue**! Chúng tôi muốn Coding5s trở thành nguồn học Elixir tốt nhất bằng mọi ngôn ngữ.
+
+---
+
+## 📄 Giấy phép
+
+MIT © [Wilfredo Barrios](https://github.com/WilfredoBarrios)
+
+---
+⚡ *Coding5s System — Học tập được thiết kế để tinh thông kỹ thuật.*
