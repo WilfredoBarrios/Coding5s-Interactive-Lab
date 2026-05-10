@@ -119,7 +119,7 @@ Cada laboratorio incluye un **Explanation Gate** donde nuestros Mentores de IA (
 
 ## 🔗 Enlaces útiles
 
-[Coding5s.com](https://coding5s.com) | [Udemy (Coding5s Premium)](https://www.udemy.com/user/wilbarrios/) | [GitHub](https://github.com/WilfredoBarrios) | [LinkedIn](https://linkedin.com/in/wilfredobarrios)
+[Coding5s.com](https://coding5s.com) | [Udemy (Coding5s Premium)](https://www.udemy.com/user/wilbarrios/) | [GitHub](https://github.com/WilfredoBarrios) |
 
 ---
 
