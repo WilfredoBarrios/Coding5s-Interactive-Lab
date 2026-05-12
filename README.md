@@ -24,6 +24,21 @@ Select a version to explore the interactive curriculum and the **Socratic Mentor
 | 🇹🇷 **Türkçe** | 🟢 Active | [Türkçe Lab'ı Görüntüle](https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/tree/main/Stage_1/tr) |
 | 🇻🇳 **Tiếng Việt** | 🟢 Active | [Xem Lab tiếng Việt](https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/tree/main/Stage_1/vi) |
 | 🇨🇳 **Chinese** | 🟢 Active | [查看中文实验](https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/tree/main/Stage_1/zh) |
+| 🇸🇦 **Arabic** | 🟢 Active | [استكشف معمل اللغة العربية](https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/tree/main/Stage_1/ar) |
+| 🇯🇵 **Japanese** | 🟢 Active | [日本語ラボを探索する](https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/tree/main/Stage_1/ja) |
+| 🇷🇺 **Russian** | 🟢 Active | [Исследуйте русскую лабораторию](https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/tree/main/Stage_1/ru) |
+| 🇧🇩 **Bengali** | 🟢 Active | [বাংলা ল্যাব এক্সপ্লোর করুন](https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/tree/main/Stage_1/bn) |
+| 🇰🇷 **Korean** | 🟢 Active | [한국어 실습 살펴보기](https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/tree/main/Stage_1/ko) |
+| 🇩🇪 **German** | 🟢 Active | [Deutsches Lab erkunden](https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/tree/main/Stage_1/de) |
+| 🇮🇳 **Tamil** | 🟢 Active | [தமிழ் ஆய்வகத்தை ஆராயுங்கள்](https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/tree/main/Stage_1/ta) |
+| 🇮🇹 **Italiano** | 🟢 Active | [Esplora il Lab in Italiano](https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/tree/main/Stage_1/it) |
+| 🇳🇱 **Dutch** | 🟢 Active | [Verken het Nederlandse Lab](https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/tree/main/Stage_1/nl) |
+| 🇺🇦 **Ukrainian** | 🟢 Active | [Досліджуйте українську лабораторію](https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/tree/main/Stage_1/uk) |
+| 🇮🇳 **Telugu** | 🟢 Active | [తెలుగు ల్యాబ్‌ను అన్వేషించండి](https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/tree/main/Stage_1/te) |
+| 🇹🇭 **Thai** | 🟢 Active | [สำรวจแล็บภาษาไทย](https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/tree/main/Stage_1/th) |
+| 🇲🇾 **Malay** | 🟢 Active | [Terokai Makmal Bahasa Melayu](https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/tree/main/Stage_1/ms) |
+| 🇵🇭 **Tagalog** | 🟢 Active | [I-explore ang Tagalog Lab](https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/tree/main/Stage_1/tl) |
+| 🇰🇪 **Swahili** | 🟢 Active | [Chunguza Maabara ya Kiswahili](https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/tree/main/Stage_1/sw) |
 
 ---
 
