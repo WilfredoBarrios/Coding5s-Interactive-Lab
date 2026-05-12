@@ -29,7 +29,7 @@ Our approach is based on **Controlled Cognitive Friction**. Each lab will guide 
 | **4** | Refactor | Optimize existing code |
 | **5** | Extend | Add new functionalities |
 
-**This repository contains Stage 1 (Free).** Stages 2-5 are available in the premium version.
+**This repository contains Stage 1.
 
 ---
 
