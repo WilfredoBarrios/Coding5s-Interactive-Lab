@@ -1,0 +1,13 @@
+# Elixir/Phoenix
+/_build
+/deps
+/.elixir_ls
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Archivos de la "Fábrica" (Opcional: decide si quieres subir los .exs o solo los .livemd)
+*.exs
+*.csv
+*.bat
