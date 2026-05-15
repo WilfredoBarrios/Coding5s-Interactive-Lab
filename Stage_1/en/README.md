@@ -102,8 +102,6 @@ Click the **Run in Livebook** button to open each interactive lab directly in yo
 | 49 | 🔴Advanced | Topic | Metaprogramming Fundamentals (The AST, quote, unquote) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/en/advanced/49_topic_metaprogramming_fundamentals_the_ast_quote_unquote.livemd) |
 | 50 | 🔴Advanced | PROJECT | Fully Typed, Tested Escript CLI Tool for Automated Data Transformation | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/en/advanced/50_project_fully_typed_tested_escript_cli_tool_for_automated_data_transformation.livemd) |
 
-> 📌 *The full table (50 topics) is automatically generated from our Master Excel. Links will be activated progressively.*
-
 ---
 
 ## 🏛️ Architecture & Mentors
@@ -112,7 +110,6 @@ Each lab includes an **Explanation Gate** where our AI Mentors (like the *Staff 
 
 - **Safe Guide:** A warm mentor for Stage 1
 - **Border Guard:** A sarcastic mentor for code auditing
-- **Coming Soon:** Jinpachi Ego (Stateful5s)
 
 ---
 
