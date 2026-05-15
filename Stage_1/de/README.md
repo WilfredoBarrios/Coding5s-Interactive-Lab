@@ -132,13 +132,6 @@ Du kannst gerne einen **Pull Request** oder ein **Issue** öffnen! Wir möchten,
 
 ## 📄 Lizenz
 
-| # | Level | Type | Prereqs (#) | Industry Priority | CFS & Risk | Topic Name | Interactive Lab |
-| :-: | :--- | :--- | :-: | :--- | :-: | :--- | :--- |
-| 1 | 🟢Beginner | Topic | - | Indispensable | 1 | Einführung in Mix & Modulkapselung (mix new, defmodule, def) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/de/beginner/1_topic_einf_hrung_in_mix_modulkapselung_mix_new_defmodule_def.livemd) |
-| 2 | 🟢Beginner | Project | 1 | Indispensable | 1 | Primitive Datentypen (Integers, Primitive Datentypen (Integers, Floats, Atoms, BooleansFloats, Atoms, Booleans) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/de/beginner/2_topic_primitive_datentypen_integers_floats_atoms_booleans.livemd) |
-| 3 | 🟢Beginner | Topic | 2 | Recommended | 2 | String-Operationen & Interpolation (<>, #{}) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/de/beginner/3_topic_string_operationen_interpolation.livemd) |
-| 4 | 🟢Intermediate | Topic | 2, 3, 4, 5 | Recommended | 3 ⚠️ | Tuple-Strukturen & grundlegendes Destructuring ({}) | [![Run in Livebook](https://livebook.dev/badge/v1/blue.svg)](https://livebook.dev/run?url=https://github.com/WilfredoBarrios/Coding5s-Elixir-Fundamentals/blob/main/Stage_1/de/beginner/4_topic_tuple_strukturen_grundlegendes_destructuring.livemd) |
-
 MIT © [Wilfredo Barrios](https://github.com/WilfredoBarrios)
 
 ---
